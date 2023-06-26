@@ -1,6 +1,6 @@
 from pathlib import Path
 # path=Path("ecommerce")
-# print(path.exists())
+# print(path.exists()) //True/False
 
 # path=Path("emails")
 # print(path.rmdir())
